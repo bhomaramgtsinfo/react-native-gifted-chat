@@ -8,6 +8,6 @@ yarn-error.log
 .vscode
 Exponent-*.app
 *.log
-lib/
+# lib/
 coverage/
 web-build/
