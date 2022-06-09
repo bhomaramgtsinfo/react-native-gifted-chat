@@ -25,5 +25,5 @@ flow-typedefs/
 .flowconfig
 yarn-error.log
 web-build/
-types.d.ts
+# types.d.ts
 example
